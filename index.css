@@ -10,10 +10,6 @@ p{
 	transition: 0.5s ease;
 }
 
-div{
-	padding: 0;
-}
-
 p:hover{
 	transform: rotate(360deg) scale(1.4);
 }
